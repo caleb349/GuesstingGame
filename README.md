@@ -1,2 +1,4 @@
 # GuesstingGame
-Simple C# Guessing Game
+C# Guessing Game
+
+To Run: dotnet run

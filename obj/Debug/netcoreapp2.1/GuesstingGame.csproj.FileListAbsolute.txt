@@ -1,0 +1,11 @@
+C:\Users\Somto\Desktop\C# GuessGame\GuesstingGame\bin\Debug\netcoreapp2.1\GuesstingGame.deps.json
+C:\Users\Somto\Desktop\C# GuessGame\GuesstingGame\bin\Debug\netcoreapp2.1\GuesstingGame.runtimeconfig.json
+C:\Users\Somto\Desktop\C# GuessGame\GuesstingGame\bin\Debug\netcoreapp2.1\GuesstingGame.runtimeconfig.dev.json
+C:\Users\Somto\Desktop\C# GuessGame\GuesstingGame\bin\Debug\netcoreapp2.1\GuesstingGame.dll
+C:\Users\Somto\Desktop\C# GuessGame\GuesstingGame\bin\Debug\netcoreapp2.1\GuesstingGame.pdb
+C:\Users\Somto\Desktop\C# GuessGame\GuesstingGame\obj\Debug\netcoreapp2.1\GuesstingGame.csprojAssemblyReference.cache
+C:\Users\Somto\Desktop\C# GuessGame\GuesstingGame\obj\Debug\netcoreapp2.1\GuesstingGame.csproj.CoreCompileInputs.cache
+C:\Users\Somto\Desktop\C# GuessGame\GuesstingGame\obj\Debug\netcoreapp2.1\GuesstingGame.AssemblyInfoInputs.cache
+C:\Users\Somto\Desktop\C# GuessGame\GuesstingGame\obj\Debug\netcoreapp2.1\GuesstingGame.AssemblyInfo.cs
+C:\Users\Somto\Desktop\C# GuessGame\GuesstingGame\obj\Debug\netcoreapp2.1\GuesstingGame.dll
+C:\Users\Somto\Desktop\C# GuessGame\GuesstingGame\obj\Debug\netcoreapp2.1\GuesstingGame.pdb
